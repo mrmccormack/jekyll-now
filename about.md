@@ -18,6 +18,9 @@ puts markdown.to_html
 
 ---
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
+---
+
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
