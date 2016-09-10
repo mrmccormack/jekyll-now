@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about you! HEY! xxx
 
-![](/images/shrek.jpg)
+![](mrmccormack.github.io/images/shrek.jpg )
 
 ### More Information
 
