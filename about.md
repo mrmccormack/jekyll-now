@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you! HEY! xxx
+Some information about you! <strong> HEY! </strong> xxx
 
 ![](https://mrmccormack.github.io/images/shrek.jpg )
 
