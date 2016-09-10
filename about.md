@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about you! HEY!
 
-![](images/Shrekcharacter.jpg )
+![](images/Shrekcharacter.jpg)
 
 ### More Information
 
